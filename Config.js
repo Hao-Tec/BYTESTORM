@@ -3,7 +3,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
-global.ownernomer = process.env.OWNER_NOMER || "2349137802868";
+global.ownernomer = process.env.OWNER_NUMBER || "2349137802868";
 global.ytname = process.env.YT_NAME || "YT: @Hao-Tec";
 global.socialm = process.env.SOCIAL_M || "GitHub: Hao-Tec";
 global.location = process.env.LOCATION || "Lagos";
