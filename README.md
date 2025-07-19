@@ -94,7 +94,7 @@ Paste this after the installation
 ---
 
   ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
+I'm Elite-Pro a public WhatsApp bot with rich features. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
